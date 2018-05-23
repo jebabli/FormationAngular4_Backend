@@ -1,0 +1,10 @@
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\bin\Debug\netcoreapp2.0\BayremHeros.deps.json
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\bin\Debug\netcoreapp2.0\BayremHeros.runtimeconfig.json
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\bin\Debug\netcoreapp2.0\BayremHeros.runtimeconfig.dev.json
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\bin\Debug\netcoreapp2.0\BayremHeros.dll
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\bin\Debug\netcoreapp2.0\BayremHeros.pdb
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\obj\Debug\netcoreapp2.0\BayremHeros.csproj.CoreCompileInputs.cache
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\obj\Debug\netcoreapp2.0\BayremHeros.AssemblyInfoInputs.cache
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\obj\Debug\netcoreapp2.0\BayremHeros.AssemblyInfo.cs
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\obj\Debug\netcoreapp2.0\BayremHeros.dll
+C:\Users\C17 Developer\Desktop\BayremHeros\BayremHeros\obj\Debug\netcoreapp2.0\BayremHeros.pdb
